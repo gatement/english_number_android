@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">number</string>
+    <string name="main_level1_btn">L1</string>
+    <string name="main_level2_btn">L2</string>
+    <string name="main_level3_btn">L3</string>
+    <string name="main_level4_btn">L4</string>
+    <string name="main_listen_btn">Listen again</string>
+    <string name="main_answer_btn">Answer</string>
+    <string name="main_clear_btn">Clear</string>
+    <string name="main_submit_btn">Submit</string>
+</resources>
